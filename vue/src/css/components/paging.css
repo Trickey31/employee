@@ -1,0 +1,89 @@
+.pagination {
+  min-width: 100%;
+  height: 56px;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 19px;
+  background-color: var(--color-white);
+}
+
+.pagination__right {
+  color: #666666;
+  display: flex;
+  align-items: center;
+  column-gap: 16px;
+  justify-content: center;
+}
+
+.page-next,
+.page-prev,
+.record-in-page__dropdown {
+  min-width: 24px;
+  height: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.page-prev:hover .icon-chevron-left {
+  opacity: 0.6;
+}
+.page-next:hover .icon-chevron-right {
+  opacity: 0.6;
+}
+
+.record-in-page {
+  position: relative;
+  cursor: pointer;
+}
+
+.record-option {
+  min-width: 200px;
+  transform: translateY(-100%);
+  top: 0;
+  position: absolute;
+  max-height: 308px;
+  background-color: var(--color-white);
+  border-radius: 4px;
+  box-shadow: 0 4px 16px rgba(23, 27, 42, 0.24);
+  padding: 8px 8px;
+  font-size: var(--font-14);
+  color: #1f1f1f;
+  overflow: auto;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+}
+
+.option-item {
+  min-width: 100%;
+  height: 36px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.option-item:hover {
+  background-color: rgba(80, 184, 60, 0.1);
+  border-radius: 4px;
+}
+
+.selected {
+  position: relative;
+  color: var(--color-primary);
+}
+
+.selected::after {
+  position: absolute;
+  content: "";
+  display: inline-block;
+  background: url("@/assets/img/Sprites.64af8f61.svg") no-repeat -1225px -363px;
+  width: 14px;
+  height: 11px;
+  right: 0;
+  top: 11px;
+}

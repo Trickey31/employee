@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Application.UnitTests\\aspnetcore.Application.UnitTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Application.UnitTests\\aspnetcore.Application.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Application.UnitTests\\aspnetcore.Application.UnitTests.csproj",
+        "projectName": "aspnetcore.Application.UnitTests",
+        "projectPath": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Application.UnitTests\\aspnetcore.Application.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\vngth\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Application.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vngth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": ["net6.0"],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Application\\aspnetcore.Application.csproj": {
+                "projectPath": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Application\\aspnetcore.Application.csproj"
+              },
+              "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Domain\\aspnetcore.Domain.csproj": {
+                "projectPath": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Domain\\aspnetcore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": ["NU1605"]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Application\\aspnetcore.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Application\\aspnetcore.Application.csproj",
+        "projectName": "aspnetcore.Application",
+        "projectPath": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Application\\aspnetcore.Application.csproj",
+        "packagesPath": "C:\\Users\\vngth\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vngth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": ["net6.0"],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Domain\\aspnetcore.Domain.csproj": {
+                "projectPath": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Domain\\aspnetcore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": ["NU1605"]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.1, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.2.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Domain\\aspnetcore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Domain\\aspnetcore.Domain.csproj",
+        "projectName": "aspnetcore.Domain",
+        "projectPath": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Domain\\aspnetcore.Domain.csproj",
+        "packagesPath": "C:\\Users\\vngth\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\2023\\Misa\\web202307\\mf1745\\aspnetcore\\aspnetcore\\aspnetcore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vngth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": ["net6.0"],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": ["NU1605"]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

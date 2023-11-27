@@ -1,0 +1,20 @@
+:root {
+  --color-primary: #50b83c;
+  --color-primary-hover: #73c663;
+  --color-error: #e61d1d;
+  --color-warning: #f49342;
+  --color-sidebar: #041434;
+  --color-border: #bbbbbb;
+  --color-white: #ffffff;
+  --color-table-hover: #f2f2f2;
+
+  --background-color: #e4e9e7;
+  --background-gray: #27395e;
+
+  --font-14: 14px;
+  --font-18: 18px;
+  --font-20: 20px;
+  --font-24: 24px;
+
+  --radius-primary: 4px;
+}

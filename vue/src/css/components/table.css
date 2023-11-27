@@ -1,0 +1,140 @@
+.table {
+  box-sizing: border-box;
+  font-size: 14px;
+  color: #1f1f1f;
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  border-radius: 4px;
+}
+
+.table th {
+  cursor: pointer;
+}
+
+.text-align-left {
+  text-align: left;
+}
+
+.text-align-right {
+  text-align: right;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.table input[type="checkbox"] {
+  width: 24px;
+  height: 24px;
+}
+
+.table td,
+.table th {
+  padding: 0 16px;
+  border-bottom: 1px solid #eeeeee;
+  border-right: 1px solid #eeeeee;
+  white-space: nowrap;
+}
+
+.table td:first-child,
+.table th:first-child {
+  position: sticky;
+  left: 0;
+  border-bottom: 1px solid #eeeeee;
+  border-right: 1px solid #eeeeee;
+}
+
+.table td:first-child::before,
+.table th:first-child::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -2px;
+  right: 0;
+  width: 2px;
+  height: 100%;
+  background-color: #e0e0e0;
+}
+
+.table th:first-child {
+  background-color: var(--background-color);
+}
+
+.table td:first-child {
+  background-color: #fff;
+}
+
+.table thead {
+  font-weight: 700;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  background-color: var(--background-color);
+  position: sticky;
+  top: 0;
+  z-index: 2 !important;
+}
+
+.table thead:sticky {
+  background-color: red;
+}
+
+.table thead::before {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: #e0e0e0;
+}
+
+.table tr {
+  height: 48px;
+  padding: 0;
+  position: relative;
+}
+
+.tr--checked {
+  background-color: var(--color-table-hover) !important;
+}
+
+.table tbody tr:hover,
+.table tbody tr:hover td:first-child {
+  background-color: var(--color-table-hover);
+}
+
+.table tbody {
+  font-weight: 400;
+}
+.table tbody tr {
+  background-color: #fff;
+}
+
+.table__action-edit,
+.table__action-delete,
+.table__action-clone,
+.table__action-more {
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.078);
+  cursor: pointer;
+}
+
+.table__action-wrapper {
+  position: sticky;
+  right: 30px;
+}
+
+.table__action {
+  display: flex;
+  align-items: center;
+  column-gap: 12px;
+  position: absolute;
+  transform: translate(-100%, 4px);
+}

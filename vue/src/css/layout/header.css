@@ -1,0 +1,33 @@
+.header,
+.header__company,
+.header__employee,
+.header__profile {
+  display: flex;
+  align-items: center;
+}
+.header {
+  height: 56px;
+  background-color: var(--color-white);
+  padding: 10px 16px;
+  justify-content: space-between;
+  box-shadow: 0 2px 3px rgba(1, 22, 30, 0.16);
+}
+.header__company .icon__wrapper,
+.header__employee .icon__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header__company,
+.header__employee {
+  gap: 0 16px;
+}
+.header__profile {
+  gap: 0 8px;
+}
+.header__avatar {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  border-radius: 100%;
+}

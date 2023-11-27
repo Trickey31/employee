@@ -1,0 +1,15 @@
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\bin\Debug\net6.0\aspnetcore.Application.deps.json
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\bin\Debug\net6.0\aspnetcore.Application.dll
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\bin\Debug\net6.0\aspnetcore.Application.pdb
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\bin\Debug\net6.0\aspnetcore.Domain.dll
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\bin\Debug\net6.0\aspnetcore.Domain.pdb
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\obj\Debug\net6.0\aspnetcore.Application.csproj.AssemblyReference.cache
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\obj\Debug\net6.0\aspnetcore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\obj\Debug\net6.0\aspnetcore.Application.AssemblyInfoInputs.cache
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\obj\Debug\net6.0\aspnetcore.Application.AssemblyInfo.cs
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\obj\Debug\net6.0\aspnetcore.Application.csproj.CoreCompileInputs.cache
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\obj\Debug\net6.0\aspnetcore.Application.csproj.CopyComplete
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\obj\Debug\net6.0\aspnetcore.Application.dll
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\obj\Debug\net6.0\refint\aspnetcore.Application.dll
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\obj\Debug\net6.0\aspnetcore.Application.pdb
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Application\obj\Debug\net6.0\ref\aspnetcore.Application.dll

@@ -1,0 +1,14 @@
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\bin\Debug\net6.0\aspnetcore.Domain.deps.json
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\bin\Debug\net6.0\aspnetcore.Domain.dll
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\bin\Debug\net6.0\aspnetcore.Domain.pdb
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\obj\Debug\net6.0\aspnetcore.Domain.csproj.AssemblyReference.cache
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\obj\Debug\net6.0\aspnetcore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\obj\Debug\net6.0\aspnetcore.Domain.AssemblyInfoInputs.cache
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\obj\Debug\net6.0\aspnetcore.Domain.AssemblyInfo.cs
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\obj\Debug\net6.0\aspnetcore.Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\obj\Debug\net6.0\aspnetcore.Domain.dll
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\obj\Debug\net6.0\refint\aspnetcore.Domain.dll
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\obj\Debug\net6.0\aspnetcore.Domain.pdb
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\obj\Debug\net6.0\ref\aspnetcore.Domain.dll
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\obj\Debug\net6.0\aspnetcore.Domain.Resource.ResourceVN.resources
+D:\Workspace\2023\Misa\web202307\mf1745\aspnetcore\aspnetcore\aspnetcore.Domain\obj\Debug\net6.0\aspnetcore.Domain.csproj.GenerateResource.cache

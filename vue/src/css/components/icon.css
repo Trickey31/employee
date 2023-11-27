@@ -1,0 +1,252 @@
+.icon {
+  background: url("../../assets/img/Sprites.64af8f61.svg") no-repeat;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.icon:hover {
+  opacity: 0.6;
+}
+
+.icon:active {
+  opacity: 0.4;
+}
+
+.icon-sidebar-dashboard {
+  background-position: -30px -1585px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-cash {
+  background-position: -73px -1628px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-bank {
+  background-position: -117px -1628px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-pu {
+  background-position: -161px -1628px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-sale {
+  background-position: -204px -1628px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-invoice {
+  background-position: -249px -1628px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-stock {
+  background-position: -291px -1628px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-tools {
+  background-position: -336px -1628px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-assets {
+  background-position: -378px -1630px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-tax {
+  background-position: -423px -1630px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-price {
+  background-position: -467px -1628px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-general {
+  background-position: -510px -1628px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-budget {
+  background-position: -378px -1659px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-report {
+  background-position: -547px -1628px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-sidebar-finance {
+  background-position: -204px -1664px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-three-stripes {
+  background-position: -843px -30px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-chevron-right {
+  background-position: -84px -361px;
+  width: 8px;
+  height: 14px;
+}
+
+.icon-chevron-left {
+  background-position: -36px -361px;
+  width: 8px;
+  height: 14px;
+}
+
+.icon-chevron-down {
+  background-position: -1129px -365px;
+  width: 14px;
+  height: 8px;
+}
+
+.icon-chevron-down--small {
+  background-position: -1078px -38px;
+  width: 9px;
+  height: 6px;
+  filter: brightness(0);
+}
+
+.icon-bell {
+  background-position: -788px -30px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-refresh {
+  background-position: -423px -201px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-search {
+  background-position: -316px -148px;
+  width: 17px;
+  height: 16px;
+}
+
+.icon-close {
+  background-position: -147px -147px;
+  width: 18px;
+  height: 18px;
+}
+
+.icon-help {
+  background-position: -89px -145px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dropdown {
+  background-position: -371px -364px;
+  width: 10px;
+  height: 8px;
+}
+
+.icon-dropdown--blue {
+  background-position: -900px -365px;
+  width: 8px;
+  height: 5px;
+}
+
+.icon-pen {
+  background-position: -416px -312px;
+  width: 16px;
+  height: 16px;
+}
+
+.icon-delete {
+  background-position: -147px -147px;
+  width: 18px;
+  height: 18px;
+  transform: scale(0.7);
+}
+
+.icon-success {
+  background-position: -1489px -201px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-error {
+  background-position: -1552px -312px;
+  width: 16px;
+  height: 16px;
+}
+
+.icon-warning {
+  background-position: -593px -145px;
+  width: 22px;
+  height: 23px;
+}
+
+.icon-question {
+  background-position: -538px -146px;
+  width: 20px;
+  height: 20px;
+}
+
+.icon-excel {
+  background-position: -705px -202px;
+  width: 23px;
+  height: 20px;
+}
+
+.icon-trash {
+  background-position: -464px -313px;
+  width: 15px;
+  height: 15px;
+  transform: scale(0.9);
+}
+
+.icon-more {
+  background-position: -1039px -361px;
+  width: 3px;
+  height: 15px;
+  filter: brightness(0.5);
+  rotate: 90deg;
+}
+
+.icon-clone {
+  background-position: -1546px -89px;
+  width: 21px;
+  height: 21px;
+}
+
+.icon-close-small {
+  background-position: -1758px -476px;
+  width: 9px;
+  height: 9px;
+}
+
+.icon-tick {
+  background-position: -1225px -363px;
+  width: 14px;
+  height: 11px;
+}
